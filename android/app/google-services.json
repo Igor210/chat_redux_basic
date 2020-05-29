@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "889980703346",
+    "firebase_url": "https://a-twm-3b0d5.firebaseio.com",
+    "project_id": "a-twm-3b0d5",
+    "storage_bucket": "a-twm-3b0d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889980703346:android:67249e2cc24fa2d9f2e8eb",
+        "android_client_info": {
+          "package_name": "com.skeleton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889980703346-7infcqgopom7j8ved3robj2es4qi9f7h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.skeleton",
+            "certificate_hash": "b815e2d1d64622709499db2463d1e8e8b51ba3f2"
+          }
+        },
+        {
+          "client_id": "889980703346-govv8vss74u8gukk7knh7qis3pdd0970.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0XSS8MZJJNENYwjuFT9gdugCDiI_RYC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889980703346-govv8vss74u8gukk7knh7qis3pdd0970.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
